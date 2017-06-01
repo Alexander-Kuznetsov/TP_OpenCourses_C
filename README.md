@@ -1,8 +1,7 @@
 # TechnoPark Mail.ru Open Course C\C++
 {|
 |-
-|Labs
-|Name
+|Labs |Name
 |-
 |1 
 |Work with files
