@@ -1,1 +1,1 @@
-# TP_OpenCourses_C-
+# TechnoPark Mail.ru Open Course C\C++
