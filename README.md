@@ -1,4 +1,4 @@
-# TechnoPark Mail.ru Open Course C\C++
+# TechnoPark Mail.ru Open Course C/C++
 |     Labs      |                        Name                       |
 | ------------- |:-------------------------------------------------:|
 | 1             | Work with files                                   |
