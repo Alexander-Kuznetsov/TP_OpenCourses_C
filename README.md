@@ -1,9 +1,30 @@
 # TechnoPark Mail.ru Open Course C\C++
-1 lab - Work with files
-2 lab - Matrix
-3 lab - Container BinarTree with Static/Dynamic libraries
-4 lab - DataBase
-5 lab - Container List1
-6 lab - Work with Classes and inheritance
-7 lab - Container String and Vector
-8 lab - Average Arithmetic word in files
+{|
+|-
+|Labs
+|Name
+|-
+|1 
+|Work with files
+|-
+|2
+|Matrix
+|-
+|3
+|Container BinarTree with Static/Dynamic libraries
+|-
+|4
+|DataBase
+|-
+|5
+|Container List1
+|-
+|6
+|Work with Classes and inheritance
+|-
+|7
+|Container String and Vector
+|-
+|8
+|Average Arithmetic word in files
+|}
